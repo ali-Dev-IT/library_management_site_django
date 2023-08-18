@@ -1,7 +1,7 @@
 frontend : Bootstrap & JQuery
 backend : django
-'you must be install the package pillow by order 'pip install pillow
-open the cmd in the project folder
+'you must be installed the package 'pillow' by order 'pip install pillow
+open cmd in the project folder
 write the order 'python manage.py runserver' to run the serve
 copy the IP address that server running on it from terminal
 open any internet browser and search for the IP address that you hav been copied
